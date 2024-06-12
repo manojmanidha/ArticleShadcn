@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://articlebackend.onrender.com/api';
+const API_URL = 'https://articlesqlite.onrender.com//api';
 
 export const getArticles = async (token) => {
   try {
